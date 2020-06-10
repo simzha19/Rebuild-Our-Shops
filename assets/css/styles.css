@@ -8,23 +8,35 @@
 }
 .aboutus{
   text-align: left;
+  font-size: 18px;
 }
 footer{
   background-color: #F8F9FA;
   border-top: 1px solid black;
   display: block;
-  padding-top: 1rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   margin-top: 2rem;
-  margin-right: 2rem;
   text-align: center;
+}
+footer-heading{
+  margin-bottom: 2em;
 }
 footer p, i{
   color: #14281D;
 }
 .fa{
   font-size: 2.5em;
+  margin-left: 1rem;
 }
-
-.aboutus:first-of-type {
+i:hover{
+  color: #73956F;
+  transition: .3s;
+}
+.letter{
+  margin-top: 5%;
+  margin-bottom: 11%;
+}
+//.aboutus:first-of-type {
   margin-top: 180px;
 }
