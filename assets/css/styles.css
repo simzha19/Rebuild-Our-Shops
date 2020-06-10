@@ -24,3 +24,7 @@ footer p, i{
 .fa{
   font-size: 2.5em;
 }
+
+.aboutus:first-of-type {
+  margin-top: 180px;
+}
