@@ -21,3 +21,7 @@ footer p, i{
   color: purple;
   font-size: 100px;
 }
+
+.aboutus:first-of-type {
+  margin-top: 180px;
+}
