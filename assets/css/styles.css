@@ -6,11 +6,18 @@
 .mb-3{
   margin-top: 8%;
 }
+.aboutus{
+  text-align: left;
+}
 footer{
   background-color: #F8F9FA;
   border-top: 1px solid black;
   display: block;
+  padding-top: 1rem;
+  margin-top: 2rem;
+  text-align: center;
 }
-footer p{
-  color: rgba(0,0,0,0.8);
+footer p, i{
+  color: purple;
+  font-size: 100px;
 }
