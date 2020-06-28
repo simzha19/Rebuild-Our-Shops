@@ -10,7 +10,7 @@
   text-align: left;
   font-size: 18px;
 }
-//.navbar-light{
+.navbar-light{
   background-color: #F8F9FA !important;
 }
 footer{
@@ -25,14 +25,14 @@ footer{
 footer-heading{
   margin-bottom: 2em;
 }
-//footer p, i, .navbar-light .navbar-nav .nav-link{
+footer p, i, .navbar-light .navbar-nav .nav-link{
   color: #14281D;
 }
 .fa{
   font-size: 2.5em;
   margin-left: 1rem;
 }
-//.navbar-light .navbar-nav .nav-link:hover, i:hover{
+.navbar-light .navbar-nav .nav-link:hover, i:hover{
   color: #73956F;
   transition: .3s;
 }
